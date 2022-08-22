@@ -1,0 +1,4 @@
+name: BackDoorPlugin
+version: '${project.version}'
+main: me.skully.backdoorplugin.Main
+authors: [ skully ]
